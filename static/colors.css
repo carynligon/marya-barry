@@ -1,0 +1,14 @@
+body {
+  --black: #2f2d2e;
+  --white: #fff9ec;
+  --dark-gray: #757575;
+  --gray: #dcdcdc;
+  --links: #43aa8b;
+  --pink: #ef3054;
+  --green: #43aa8b;
+}
+
+body a {
+  color: var(--links);
+  text-decoration: none;
+}
